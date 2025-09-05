@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: ravindra806/versionapp:42
+        image: ravindra806/versionapp:43
         ports:
         - containerPort: 5000
         imagePullPolicy: Always
