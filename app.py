@@ -43,7 +43,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>🌟 Hello Friend!</h1>
+            <h1>🌟 Hello Buddy!</h1>
             <p>Hey buddy, hope you're doing well!</p>
             <p>This is my <span class="highlight">Version 15th</span> deployment! 🚀</p>
         </div>
