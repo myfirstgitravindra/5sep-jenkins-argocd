@@ -37,7 +37,7 @@ def home():
             }
             .highlight {
                 color: #FF6B6B;  /* Coral color for important text */
-                font-weight: blackbold;
+                font-weight: bold;
             }
         </style>
     </head>
